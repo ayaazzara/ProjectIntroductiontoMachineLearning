@@ -1,0 +1,2 @@
+# ProjectIntroductiontoMachineLearning
+These projects were the projects to complete  “Introduction to Machine Learning” course at my fourth semester of Informatics Engineering Study at Brawijaya University.  In this project, I compared numeric data classification using Condensed Nearest Neighbors and Gaussian Naive Bayes Algorithms by the number of recall, preposition, accuration and f-1 score of the results from each classification methods.
